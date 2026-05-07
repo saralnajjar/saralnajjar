@@ -1,6 +1,5 @@
-# Sara Alnajjar
-
-Second-year Computer Science student at the University of Leeds, interested in security, encryption, and software engineering.
+<h1>Sara Alnajjar</h1>
+<p>Second-year CS student at Leeds · Security · Cryptography · Software Engineering</p>
 
 ## What I'm working on
 - Building out my portfolio with projects in Kotlin and Python
@@ -24,5 +23,13 @@ Second-year Computer Science student at the University of Leeds, interested in s
 ## Currently studying
 Cryptography & Security · Graph Algorithms · Operating Systems · Human-Computer Interaction
 
----
 📍 University of Leeds
+
+## Connect With Me  
+
+<p align="center">
+  <a href="mailto:saraoalnajjar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/saraalnajjar-/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/saralnajjar"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
