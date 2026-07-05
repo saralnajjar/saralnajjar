@@ -1,5 +1,5 @@
 <h1>Sara Alnajjar</h1>
-<p>Third year CS student at Leeds · Security · Cryptography · Software Engineering</p>
+<p>Third-year CS student at Leeds · Security · Cryptography · Software Engineering</p>
 
 ## What I'm working on
 - Building out my portfolio with projects in Kotlin and Python
@@ -25,7 +25,7 @@
 
 
 ## Currently studying
-Cryptography & Security · Graph Algorithms · Operating Systems · Human-Computer Interaction
+High Performance Computing · Resilient Distributed Systems · Prof, Innovation & Enterprise · Human-Computer Interaction · Innovation in Practice
 
 📍 University of Leeds
 
